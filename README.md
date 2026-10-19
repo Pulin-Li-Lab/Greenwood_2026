@@ -1,6 +1,6 @@
 # Three-state GPCR desensitization model
 
-Code for the receptor model in *[manuscript title, authors, journal, year]*.
+Code for the receptor model in Greenwood 2026.
 
 **Provided for peer review only.** Copyright (c) 2026 the authors. All rights reserved. No license is granted to use, copy, modify or distribute this code until the manuscript is published.
 
